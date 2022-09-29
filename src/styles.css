@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.heading {
+  width: 150px;
+  margin: 0 auto;
+}
+.link {
+  text-align: center;
+  margin: auto auto 0 auto;
+  padding: 8px 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  text-transform: uppercase;
+}
+.link:hover,
+.link2:hover {
+  background-color: rgb(48, 44, 44);
+  color: white;
+}
+.link2 {
+  margin-top: 20px;
+  display: block;
+  text-align: center;
+  padding: 8px 0;
+  width: 20%;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  text-transform: uppercase;
+}
+.my-card {
+  text-align: left;
+}
+.col {
+  margin: 20px auto;
+  text-align: left;
+}
